@@ -1,0 +1,642 @@
+[
+      {
+        "title": "DevTools",
+        "icon": "url_to_image_1.jpg",
+        "time": "15",
+        "categories": ["Web"],
+        "briefDescription": "Здесь собраны вопросы по всей базе тестирования на начальном уровне",
+        "fullDescription": "Тест на знание инструментов разработчика (DevTools) в современных веб-браузерах. Этот тест поможет вам проверить свои знания о функциональности DevTools, включая анализ производительности, отладку, работу с сетевыми запросами и редактирование HTML и CSS. Удачи в прохождении теста!",
+        "questions": [
+          {
+            "question": "Что такое DevTools?",
+            "answers": [
+              {
+                "text": "Набор инструментов для разработки веб-приложений",
+                "isCorrect": true
+              },
+              {
+                "text": "Программа для редактирования изображений",
+                "isCorrect": false
+              },
+              {
+                "text": "Инструмент для создания баз данных",
+                "isCorrect": false
+              },
+              {
+                "text": "Плагин для браузеров",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой браузер первым внедрил инструменты разработчика?",
+            "answers": [
+              {
+                "text": "Google Chrome",
+                "isCorrect": false
+              },
+              {
+                "text": "Mozilla Firefox",
+                "isCorrect": false
+              },
+              {
+                "text": "Internet Explorer",
+                "isCorrect": true
+              },
+              {
+                "text": "Safari",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой панель в DevTools используется для анализа сетевых запросов?",
+            "answers": [
+              {
+                "text": "Elements",
+                "isCorrect": false
+              },
+              {
+                "text": "Console",
+                "isCorrect": false
+              },
+              {
+                "text": "Network",
+                "isCorrect": true
+              },
+              {
+                "text": "Sources",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой инструмент DevTools позволяет редактировать HTML и CSS на лету?",
+            "answers": [
+              {
+                "text": "Console",
+                "isCorrect": false
+              },
+              {
+                "text": "Sources",
+                "isCorrect": false
+              },
+              {
+                "text": "Elements",
+                "isCorrect": true
+              },
+              {
+                "text": "Network",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой метод позволяет вам замедлить загрузку страницы в DevTools?",
+            "answers": [
+              {
+                "text": "Throttle",
+                "isCorrect": true
+              },
+              {
+                "text": "Slow down",
+                "isCorrect": false
+              },
+              {
+                "text": "Network conditions",
+                "isCorrect": false
+              },
+              {
+                "text": "Performance",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что делает вкладка 'Performance' в DevTools?",
+            "answers": [
+              {
+                "text": "Отображает ошибки JavaScript",
+                "isCorrect": false
+              },
+              {
+                "text": "Позволяет анализировать производительность страницы",
+                "isCorrect": true
+              },
+              {
+                "text": "Отображает сетевые запросы",
+                "isCorrect": false
+              },
+              {
+                "text": "Позволяет редактировать CSS",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой инструмент DevTools позволяет просматривать и изменять локальные хранилища?",
+            "answers": [
+              {
+                "text": "Application",
+                "isCorrect": true
+              },
+              {
+                "text": "Network",
+                "isCorrect": false
+              },
+              {
+                "text": "Console",
+                "isCorrect": false
+              },
+              {
+                "text": "Elements",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что такое 'Viewport' в контексте DevTools?",
+            "answers": [
+              {
+                "text": "Область отображения веб-страницы",
+                "isCorrect": true
+              },
+              {
+                "text": "Размер экрана устройства",
+                "isCorrect": false
+              },
+              {
+                "text": "Инструмент для редактирования изображений",
+                "isCorrect": false
+              },
+              {
+                "text": "Вкладка для работы с сетевыми запросами",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой инструмент используется для отладки JavaScript в DevTools?",
+            "answers": [
+              {
+                "text": "Network",
+                "isCorrect": false
+              },
+              {
+                "text": "Console",
+                "isCorrect": false
+              },
+              {
+                "text": "Sources",
+                "isCorrect": true
+              },
+              {
+                "text": "Elements",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой метод позволяет вам видеть, какие стили применяются к элементу?",
+            "answers": [
+              {
+                "text": "Computed",
+                "isCorrect": true
+              },
+              {
+                "text": "Styles",
+                "isCorrect": false
+              },
+              {
+                "text": "Layout",
+                "isCorrect": false
+              },
+              {
+                "text": "Event Listeners",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих вариантов не является частью DevTools?",
+            "answers": [
+              {
+                "text": "Lighthouse",
+                "isCorrect": false
+              },
+              {
+                "text": "Console",
+                "isCorrect": false
+              },
+              {
+                "text": "Elements",
+                "isCorrect": false
+              },
+              {
+                "text": "Notepad",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Если вы хотите протестировать, как ваша страница будет выглядеть на мобильном устройстве, какую функцию DevTools вы должны использовать?",
+            "answers": [
+              {
+                "text": "Performance",
+                "isCorrect": false
+              },
+              {
+                "text": "Responsive Design Mode",
+                "isCorrect": true
+              },
+              {
+                "text": "Network",
+                "isCorrect": false
+              },
+              {
+                "text": "Security",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какое из следующих утверждений о DevTools неверно?",
+            "answers": [
+              {
+                "text": "DevTools доступны только в Google Chrome",
+                "isCorrect": true
+              },
+              {
+                "text": "DevTools могут помочь в отладке производительности",
+                "isCorrect": false
+              },
+              {
+                "text": "DevTools позволяют редактировать HTML и CSS",
+                "isCorrect": false
+              },
+              {
+                "text": "DevTools могут анализировать сетевые запросы",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что произойдет, если вы удалите элемент на странице через вкладку 'Elements' в DevTools?",
+            "answers": [
+              {
+                "text": "Элемент будет удален только в DevTools",
+                "isCorrect": true
+              },
+              {
+                "text": "Элемент будет удален из кода на сервере",
+                "isCorrect": false
+              },
+              {
+                "text": "Элемент будет удален только для текущей сессии",
+                "isCorrect": false
+              },
+              {
+                "text": "Элемент будет удален навсегда",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Если вы хотите увидеть, какие скрипты загружаются на странице, какую вкладку DevTools вы должны использовать?",
+            "answers": [
+              {
+                "text": "Elements",
+                "isCorrect": false
+              },
+              {
+                "text": "Network",
+                "isCorrect": true
+              },
+              {
+                "text": "Sources",
+                "isCorrect": false
+              },
+              {
+                "text": "Console",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих инструментов поможет вам оптимизировать производительность вашей страницы?",
+            "answers": [
+              {
+                "text": "Console",
+                "isCorrect": false
+              },
+              {
+                "text": "Elements",
+                "isCorrect": false
+              },
+              {
+                "text": "Lighthouse",
+                "isCorrect": true
+              },
+              {
+                "text": "Network",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой метод вы можете использовать для отслеживания изменений в JavaScript переменных?",
+            "answers": [
+              {
+                "text": "Breakpoints",
+                "isCorrect": false
+              },
+              {
+                "text": "Console.log",
+                "isCorrect": false
+              },
+              {
+                "text": "Watch Expressions",
+                "isCorrect": false
+              },
+              {
+                "text": "All of the above",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Что произойдет, если вы измените CSS-стиль элемента в DevTools?",
+            "answers": [
+              {
+                "text": "Изменения сохранятся на сервере",
+                "isCorrect": false
+              },
+              {
+                "text": "Изменения будут видны только в текущем сеансе",
+                "isCorrect": true
+              },
+              {
+                "text": "Изменения будут видны для всех пользователей",
+                "isCorrect": false
+              },
+              {
+                "text": "Изменения не будут применены",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих запросов не будет отображаться во вкладке 'Network' DevTools?",
+            "answers": [
+              {
+                "text": "XMLHttpRequest",
+                "isCorrect": false
+              },
+              {
+                "text": "Fetch API",
+                "isCorrect": false
+              },
+              {
+                "text": "WebSocket",
+                "isCorrect": false
+              },
+              {
+                "text": "Local Storage",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Какой метод позволяет вам сохранять и делиться настройками DevTools?",
+            "answers": [
+              {
+                "text": "Workspaces",
+                "isCorrect": true
+              },
+              {
+                "text": "Snippets",
+                "isCorrect": false
+              },
+              {
+                "text": "Settings",
+                "isCorrect": false
+              },
+              {
+                "text": "Profiles",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой вкладкой вы должны воспользоваться, чтобы увидеть ошибки JavaScript?",
+            "answers": [
+              {
+                "text": "Elements",
+                "isCorrect": false
+              },
+              {
+                "text": "Network",
+                "isCorrect": false
+              },
+              {
+                "text": "Console",
+                "isCorrect": true
+              },
+              {
+                "text": "Sources",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что такое 'Lighthouse' в DevTools?",
+            "answers": [
+              {
+                "text": "Инструмент для отладки JavaScript",
+                "isCorrect": false
+              },
+              {
+                "text": "Инструмент для анализа производительности и доступности веб-страниц",
+                "isCorrect": true
+              },
+              {
+                "text": "Инструмент для работы с сетевыми запросами",
+                "isCorrect": false
+              },
+              {
+                "text": "Инструмент для редактирования изображений",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих методов позволяет вам видеть, как загружается страница в реальном времени?",
+            "answers": [
+              {
+                "text": "Timeline",
+                "isCorrect": false
+              },
+              {
+                "text": "Performance",
+                "isCorrect": false
+              },
+              {
+                "text": "Network",
+                "isCorrect": false
+              },
+              {
+                "text": "All of the above",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Что произойдет, если вы установите 'Breakpoints' в коде JavaScript?",
+            "answers": [
+              {
+                "text": "Код остановится на этом месте во время выполнения",
+                "isCorrect": true
+              },
+              {
+                "text": "Код будет выполнен быстрее",
+                "isCorrect": false
+              },
+              {
+                "text": "Код будет удален",
+                "isCorrect": false
+              },
+              {
+                "text": "Код будет выполнен с ошибками",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих типов хранилищ не поддерживается в DevTools?",
+            "answers": [
+              {
+                "text": "Local Storage",
+                "isCorrect": false
+              },
+              {
+                "text": "Session Storage",
+                "isCorrect": false
+              },
+              {
+                "text": "IndexedDB",
+                "isCorrect": false
+              },
+              {
+                "text": "Remote Storage",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих методов позволяет вам просматривать и управлять cookies в DevTools?",
+            "answers": [
+              {
+                "text": "Application",
+                "isCorrect": true
+              },
+              {
+                "text": "Network",
+                "isCorrect": false
+              },
+              {
+                "text": "Security",
+                "isCorrect": false
+              },
+              {
+                "text": "Elements",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих инструментов DevTools позволяет вам тестировать доступность веб-приложений?",
+            "answers": [
+              {
+                "text": "Performance",
+                "isCorrect": false
+              },
+              {
+                "text": "Lighthouse",
+                "isCorrect": true
+              },
+              {
+                "text": "Console",
+                "isCorrect": false
+              },
+              {
+                "text": "Sources",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что такое 'Emulation' в контексте DevTools?",
+            "answers": [
+              {
+                "text": "Инструмент для редактирования изображений",
+                "isCorrect": false
+              },
+              {
+                "text": "Возможность тестировать веб-страницы на разных устройствах и разрешениях",
+                "isCorrect": true
+              },
+              {
+                "text": "Инструмент для отладки JavaScript",
+                "isCorrect": false
+              },
+              {
+                "text": "Возможность изменять сетевые запросы",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих вариантов является правильным способом использования DevTools для проверки производительности?",
+            "answers": [
+              {
+                "text": "Использовать вкладку 'Elements'",
+                "isCorrect": false
+              },
+              {
+                "text": "Использовать вкладку 'Performance'",
+                "isCorrect": true
+              },
+              {
+                "text": "Использовать вкладку 'Console'",
+                "isCorrect": false
+              },
+              {
+                "text": "Использовать вкладку 'Network'",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих инструментов позволяет вам создавать и запускать небольшие фрагменты JavaScript-кода?",
+            "answers": [
+              {
+                "text": "Console",
+                "isCorrect": false
+              },
+              {
+                "text": "Snippets",
+                "isCorrect": true
+              },
+              {
+                "text": "Sources",
+                "isCorrect": false
+              },
+              {
+                "text": "All of the above",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      }
+    ]

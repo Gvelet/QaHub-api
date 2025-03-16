@@ -1,0 +1,672 @@
+[
+      {
+        "title": "Postman",
+        "icon": "url_to_image_1.jpg",
+        "time": "19",
+        "categories": ["API"],
+        "briefDescription": "Здесь собраны вопросы по всей базе тестирования на начальном уровне",
+        "fullDescription": "Добро пожаловать на тест 'Postman'! Этот тест предназначен для проверки ваших знаний о Postman, мощном инструменте для тестирования и разработки API. В ходе теста вам предстоит ответить на вопросы о функциональности Postman, методах HTTP, работе с коллекциями, переменными и многом другом. Независимо от вашего уровня подготовки, этот тест поможет вам оценить свои знания и выявить области для дальнейшего изучения. Удачи!",
+        "questions": [
+          {
+            "question": "Что такое Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Инструмент для разработки веб-приложений",
+                "isCorrect": false
+              },
+              {
+                "text": "Инструмент для тестирования API",
+                "isCorrect": true
+              },
+              {
+                "text": "Инструмент для создания баз данных",
+                "isCorrect": false
+              },
+              {
+                "text": "Инструмент для мониторинга серверов",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой метод HTTP используется для получения данных с сервера?",
+            "image": null,
+            "answers": [
+              {
+                "text": "POST",
+                "isCorrect": false
+              },
+              {
+                "text": "PUT",
+                "isCorrect": false
+              },
+              {
+                "text": "DELETE",
+                "isCorrect": false
+              },
+              {
+                "text": "GET",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих форматов данных поддерживает Postman для отправки запросов?",
+            "image": null,
+            "answers": [
+              {
+                "text": "XML",
+                "isCorrect": false
+              },
+              {
+                "text": "JSON",
+                "isCorrect": false
+              },
+              {
+                "text": "Form Data",
+                "isCorrect": false
+              },
+              {
+                "text": "Все вышеперечисленные",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Что такое коллекции в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Группа запросов",
+                "isCorrect": true
+              },
+              {
+                "text": "Группа тестов",
+                "isCorrect": false
+              },
+              {
+                "text": "Группа окружений",
+                "isCorrect": false
+              },
+              {
+                "text": "Группа переменных",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Где можно сохранить переменные в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "В файле",
+                "isCorrect": false
+              },
+              {
+                "text": "В окружении",
+                "isCorrect": true
+              },
+              {
+                "text": "В коллекции",
+                "isCorrect": false
+              },
+              {
+                "text": "В запросе",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой метод HTTP используется для обновления существующих данных на сервере?",
+            "image": null,
+            "answers": [
+              {
+                "text": "GET",
+                "isCorrect": false
+              },
+              {
+                "text": "POST",
+                "isCorrect": false
+              },
+              {
+                "text": "PUT",
+                "isCorrect": true
+              },
+              {
+                "text": "PATCH",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой статус ответа HTTP указывает на успешное выполнение запроса?",
+            "image": null,
+            "answers": [
+              {
+                "text": "404",
+                "isCorrect": false
+              },
+              {
+                "text": "500",
+                "isCorrect": false
+              },
+              {
+                "text": "200",
+                "isCorrect": true
+              },
+              {
+                "text": "403",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой тип аутентификации поддерживает Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Basic",
+                "isCorrect": false
+              },
+              {
+                "text": "OAuth 2.0",
+                "isCorrect": false
+              },
+              {
+                "text": "Digest",
+                "isCorrect": false
+              },
+              {
+                "text": "Все вышеперечисленные",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих форматов не поддерживается в Postman для отправки данных?",
+            "image": null,
+            "answers": [
+              {
+                "text": "JSON",
+                "isCorrect": false
+              },
+              {
+                "text": "XML",
+                "isCorrect": false
+              },
+              {
+                "text": "CSV",
+                "isCorrect": false
+              },
+              {
+                "text": "YAML",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Что такое 'Pre-request Script' в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Скрипт, который выполняется перед отправкой запроса",
+                "isCorrect": true
+              },
+              {
+                "text": "Скрипт, который выполняется после получения ответа",
+                "isCorrect": false
+              },
+              {
+                "text": "Скрипт, который выполняется при создании коллекции",
+                "isCorrect": false
+              },
+              {
+                "text": "Скрипт, который выполняется при запуске Postman",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Как можно импортировать коллекцию в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Через командную строку",
+                "isCorrect": false
+              },
+              {
+                "text": "Через меню 'Import'",
+                "isCorrect": true
+              },
+              {
+                "text": "Через API",
+                "isCorrect": false
+              },
+              {
+                "text": "Через настройки",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что такое 'Environment' в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Среда выполнения кода",
+                "isCorrect": false
+              },
+              {
+                "text": "Набор переменных для различных окружений",
+                "isCorrect": true
+              },
+              {
+                "text": "Конфигурация сервера",
+                "isCorrect": false
+              },
+              {
+                "text": "Набор тестов",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что такое 'Mock Server' в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Сервер, который используется для тестирования производительности",
+                "isCorrect": false
+              },
+              {
+                "text": "Сервер, который эмулирует API",
+                "isCorrect": true
+              },
+              {
+                "text": "Сервер для хранения данных",
+                "isCorrect": false
+              },
+              {
+                "text": "Сервер для развертывания приложений",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих методов не является частью RESTful API?",
+            "image": null,
+            "answers": [
+              {
+                "text": "GET",
+                "isCorrect": false
+              },
+              {
+                "text": "POST",
+                "isCorrect": false
+              },
+              {
+                "text": "PUT",
+                "isCorrect": false
+              },
+              {
+                "text": "CONNECT",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Какой из этих методов позволяет обновить часть ресурса?",
+            "image": null,
+            "answers": [
+              {
+                "text": "PUT",
+                "isCorrect": false
+              },
+              {
+                "text": "PATCH",
+                "isCorrect": true
+              },
+              {
+                "text": "POST",
+                "isCorrect": false
+              },
+              {
+                "text": "DELETE",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Как можно экспортировать коллекцию из Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Через меню 'Export'",
+                "isCorrect": true
+              },
+              {
+                "text": "Через командную строку",
+                "isCorrect": false
+              },
+              {
+                "text": "Через API",
+                "isCorrect": false
+              },
+              {
+                "text": "Это невозможно",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что такое 'Collection Runner' в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Инструмент для запуска запросов в коллекции",
+                "isCorrect": true
+              },
+              {
+                "text": "Инструмент для создания коллекций",
+                "isCorrect": false
+              },
+              {
+                "text": "Инструмент для мониторинга запросов",
+                "isCorrect": false
+              },
+              {
+                "text": "Инструмент для тестирования производительности",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что такое 'Global Variables' в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Переменные, доступные во всех коллекциях и окружениях",
+                "isCorrect": true
+              },
+              {
+                "text": "Переменные, доступные только в одной коллекции",
+                "isCorrect": false
+              },
+              {
+                "text": "Переменные, доступные только в одном окружении",
+                "isCorrect": false
+              },
+              {
+                "text": "Переменные, которые нельзя изменить",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Какой из следующих методов не используется для аутентификации в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "OAuth 2.0",
+                "isCorrect": false
+              },
+              {
+                "text": "JWT",
+                "isCorrect": false
+              },
+              {
+                "text": "Basic",
+                "isCorrect": false
+              },
+              {
+                "text": "FTP",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "question": "Как создать глобальную переменную в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Перейдите в 'Settings' и выберите 'Globals'",
+                "isCorrect": true
+              },
+              {
+                "text": "Используйте команду pm.variables.set()",
+                "isCorrect": false
+              },
+              {
+                "text": "Создайте переменную в запросе",
+                "isCorrect": false
+              },
+              {
+                "text": "Переменные нельзя создать глобально",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Как правильно записать переменную в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "{{variableName}}",
+                "isCorrect": true
+              },
+              {
+                "text": "$variableName",
+                "isCorrect": false
+              },
+              {
+                "text": "%variableName%",
+                "isCorrect": false
+              },
+              {
+                "text": "variableName[]",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что такое заголовки (headers) в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Комментарии к запросу",
+                "isCorrect": false
+              },
+              {
+                "text": "Метаданные, отправляемые вместе с запросом",
+                "isCorrect": true
+              },
+              {
+                "text": "Содержимое ответа",
+                "isCorrect": false
+              },
+              {
+                "text": "Формат данных",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что такое параметры (params) в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Данные, отправляемые в теле запроса",
+                "isCorrect": false
+              },
+              {
+                "text": "Параметры URL, которые передаются в запросе",
+                "isCorrect": true
+              },
+              {
+                "text": "Заголовки запроса",
+                "isCorrect": false
+              },
+              {
+                "text": "Переменные окружения",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Как добавить параметры к GET-запросу в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Введите их в поле 'Body'",
+                "isCorrect": false
+              },
+              {
+                "text": "Введите их в поле 'Headers'",
+                "isCorrect": false
+              },
+              {
+                "text": "Введите их в поле 'Params'",
+                "isCorrect": true
+              },
+              {
+                "text": "Параметры не поддерживаются в GET-запросах",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Как можно проверить ответ API с помощью тестов в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Используя pm.response.to.be.success",
+                "isCorrect": false
+              },
+              {
+                "text": "Используя pm.test()",
+                "isCorrect": true
+              },
+              {
+                "text": "Используя pm.expect()",
+                "isCorrect": false
+              },
+              {
+                "text": "Используя pm.response.to.have.status()",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Как правильно записать тест для проверки статуса ответа 200?",
+            "image": null,
+            "answers": [
+              {
+                "text": "pm.response.to.have.status(200);",
+                "isCorrect": true
+              },
+              {
+                "text": "pm.response.status(200);",
+                "isCorrect": false
+              },
+              {
+                "text": "pm.test.status(200);",
+                "isCorrect": false
+              },
+              {
+                "text": "pm.response.to.be.status(200);",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Что такое 'Pre-request Script' в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Скрипт, который выполняется после получения ответа",
+                "isCorrect": false
+              },
+              {
+                "text": "Скрипт, который выполняется перед отправкой запроса",
+                "isCorrect": true
+              },
+              {
+                "text": "Скрипт для создания документации",
+                "isCorrect": false
+              },
+              {
+                "text": "Скрипт для настройки окружения",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Как можно использовать переменные в тестах Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "pm.variables.get('variableName')",
+                "isCorrect": true
+              },
+              {
+                "text": "pm.get('variableName')",
+                "isCorrect": false
+              },
+              {
+                "text": "getVariable('variableName')",
+                "isCorrect": false
+              },
+              {
+                "text": "pm.variable('variableName')",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Как создать переменную окружения в Postman?",
+            "image": null,
+            "answers": [
+              {
+                "text": "Перейдите в 'Manage Environments' и создайте новое окружение",
+                "isCorrect": true
+              },
+              {
+                "text": "Используйте команду pm.environment.set()",
+                "isCorrect": false
+              },
+              {
+                "text": "Переменные окружения нельзя создавать",
+                "isCorrect": false
+              },
+              {
+                "text": "Переменные окружения создаются автоматически",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "question": "Как можно проверить, что массив в ответе не пустой?",
+            "image": null,
+            "answers": [
+              {
+                "text": "pm.expect(pm.response.json().length).to.be.above(0);",
+                "isCorrect": false
+              },
+              {
+                "text": "pm.expect(pm.response.json()).to.not.be.empty;",
+                "isCorrect": true
+              },
+              {
+                "text": "pm.response.to.have.length.above(0);",
+                "isCorrect": false
+              },
+              {
+                "text": "pm.response.json().length.should.be.above(0);",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
