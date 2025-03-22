@@ -3,6 +3,7 @@
         "1": {
             "title": "Основы тестирования",
             "icon": "url_to_image_1.jpg",
+            "key": "basic-testing",
             "time": "20",
             "categories": [
                 "Основы"
@@ -266,6 +267,7 @@
         "2": {
             "title": "DevTools",
             "icon": "url_to_image_1.jpg",
+            "key": "devtools",
             "time": "15",
             "categories": [
                 "Web"
@@ -910,6 +912,7 @@
         "3": {
             "title": "Postman",
             "icon": "url_to_image_1.jpg",
+            "key": "postman",
             "time": "19",
             "categories": [
                 "API"

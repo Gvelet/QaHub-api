@@ -2,6 +2,7 @@
       {
         "title": "Postman",
         "icon": "url_to_image_1.jpg",
+        "key": "postman",
         "time": "19",
         "categories": ["API"],
         "briefDescription": "Здесь собраны вопросы по всей базе тестирования на начальном уровне",

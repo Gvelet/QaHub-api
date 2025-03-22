@@ -2,6 +2,7 @@
       {
         "title": "Основы тестирования",
         "icon": "url_to_image_1.jpg",
+        "key": "basic-testing",
         "time": "20",
         "categories": ["Основы"],
         "briefDescription": "Здесь собраны вопросы по всей базе тестирования на начальном уровне",

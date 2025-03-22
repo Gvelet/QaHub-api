@@ -2,6 +2,7 @@
       {
         "title": "DevTools",
         "icon": "url_to_image_1.jpg",
+        "key": "devtools",
         "time": "15",
         "categories": ["Web"],
         "briefDescription": "Здесь собраны вопросы по всей базе тестирования на начальном уровне",
