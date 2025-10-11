@@ -7,7 +7,7 @@
                 "Формы Html"
             ],
             "description": "Требуется найти 13 кейсов в input с вводом имени пользователя",
-            "url": "text-type-input",
+            "key": "text-type-input",
             "validation": {
                 "minLength": 3,
                 "maxLength": 15
@@ -37,7 +37,7 @@
                 "Формы Html"
             ],
             "description": "Тестирование ввода чисел от 4 до 14 символов в поля цены с кнопкой «Применить»",
-            "url": "price-range-input",
+            "key": "price-range-input",
             "validation": {
                 "minLength": 4,
                 "maxLength": 14
