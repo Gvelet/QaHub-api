@@ -6,7 +6,7 @@ const path = require('path');
 const directoryPathTest = path.join(__dirname, 'tests');
 const directoryPathPractickes = path.join(__dirname, 'practices');
 
-function mergingJsonFiles(directory, nameFiles){
+function mergingJsonFiles(directory, nameFiles, ){
     let combinedData = []; // Массив для хранения объединенных данных
     let index = 1; // Начальный индекс для ключей
 
@@ -26,9 +26,7 @@ function mergingJsonFiles(directory, nameFiles){
             // Предполагается, что каждый файл содержит массив объектов
             data.forEach(test => {
                 // Создаем объект с уникальным ключом и данными теста
-                combinedData.push({
-                    [`${index}`]: test
-                });
+                combinedData.push(test);
                 index++; // Увеличиваем индекс для следующего теста
             });
         });
