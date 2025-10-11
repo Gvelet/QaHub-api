@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Поиск кейсов для input с типом 'text'",
+        "icon": "default.png",
+        "categories": ["Формы Html"],
+        "description": "Требуется найти 13 кейсов в input с вводом имени пользователя",
+        "url": "text-type-input",
+        "validation": {
+            "minLength": 3,
+            "maxLength": 15
+        },
+        "messages": {
+            "empty": "Поле пустое",
+            "minimumBoundary": "Ввод границы (2 символа)",
+            "maximumBoundary": "Ввод границы (16 символов)",
+            "min": "Ввод минимальной длины (3 символа)",
+            "max": "Ввод максимальной длины (15 символов)",
+            "specialCharacters": "Ввод спецсимволов", 
+            "сyrillicInput": "Ввод кириллицы",
+            "latinInput": "Ввод латиницы",
+            "enteringNumbers": "Ввод цифр",
+            "onlySpaces": "Только пробелы",
+            "spacesBeginning": "Пробелы в начале строки",
+            "spacesEnd": "Пробелы в конце строки",
+            "sqlTest": "Проверка на SQL-инъекции"
+        }
+    }
+]

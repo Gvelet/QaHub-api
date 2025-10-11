@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Кейсы для числовых полей «Цена от» и «Цена до»",
+    "icon": "default.png",
+    "categories": ["Формы Html"],
+    "description": "Тестирование ввода чисел от 4 до 14 символов в поля цены с кнопкой «Применить»",
+    "url": "price-range-input",
+    "validation": {
+      "minLength": 4,
+      "maxLength": 14
+    },
+    "messages": {
+      "bothEmpty": "Поля пустые — требуется ввод",
+      "minLengthError": "Минимум 4 символа",
+      "maxLengthError": "Максимум 14 символов",
+      "lettersInput": "Только цифры разрешены",
+      "specialCharsInput": "Спецсимволы запрещены",
+      "zeroAllowed": "Допускается число 0",
+      "largeNumber": "Очень большое число введено",
+      "fromGreaterThanTo": "«Цена от» не может быть больше «Цена до»",
+      "spacesIgnored": "Пробелы игнорируются",
+      "applyNoChange": "Нажатие «Применить» без изменений",
+      "partialInput": "Одно поле заполнено, другое пустое",
+      "nonNumeric": "Ввод нечисловых символов не допускается",
+      "leadingZeros": "Ввод с ведущими нулями"
+    }
+  }
+]
