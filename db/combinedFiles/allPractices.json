@@ -1,0 +1,62 @@
+[
+    {
+        "1": {
+            "title": "Поиск кейсов для input с типом 'text'",
+            "icon": "default.png",
+            "categories": [
+                "Формы Html"
+            ],
+            "description": "Требуется найти 13 кейсов в input с вводом имени пользователя",
+            "url": "text-type-input",
+            "validation": {
+                "minLength": 3,
+                "maxLength": 15
+            },
+            "messages": {
+                "empty": "Поле пустое",
+                "minimumBoundary": "Ввод границы (2 символа)",
+                "maximumBoundary": "Ввод границы (16 символов)",
+                "min": "Ввод минимальной длины (3 символа)",
+                "max": "Ввод максимальной длины (15 символов)",
+                "specialCharacters": "Ввод спецсимволов",
+                "сyrillicInput": "Ввод кириллицы",
+                "latinInput": "Ввод латиницы",
+                "enteringNumbers": "Ввод цифр",
+                "onlySpaces": "Только пробелы",
+                "spacesBeginning": "Пробелы в начале строки",
+                "spacesEnd": "Пробелы в конце строки",
+                "sqlTest": "Проверка на SQL-инъекции"
+            }
+        }
+    },
+    {
+        "2": {
+            "title": "Кейсы для числовых полей «Цена от» и «Цена до»",
+            "icon": "default.png",
+            "categories": [
+                "Формы Html"
+            ],
+            "description": "Тестирование ввода чисел от 4 до 14 символов в поля цены с кнопкой «Применить»",
+            "url": "price-range-input",
+            "validation": {
+                "minLength": 4,
+                "maxLength": 14
+            },
+            "messages": {
+                "bothEmpty": "Поля пустые — требуется ввод",
+                "minLengthError": "Минимум 4 символа",
+                "maxLengthError": "Максимум 14 символов",
+                "lettersInput": "Только цифры разрешены",
+                "specialCharsInput": "Спецсимволы запрещены",
+                "zeroAllowed": "Допускается число 0",
+                "largeNumber": "Очень большое число введено",
+                "fromGreaterThanTo": "«Цена от» не может быть больше «Цена до»",
+                "spacesIgnored": "Пробелы игнорируются",
+                "applyNoChange": "Нажатие «Применить» без изменений",
+                "partialInput": "Одно поле заполнено, другое пустое",
+                "nonNumeric": "Ввод нечисловых символов не допускается",
+                "leadingZeros": "Ввод с ведущими нулями"
+            }
+        }
+    }
+]
