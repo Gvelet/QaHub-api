@@ -4,7 +4,7 @@
     "icon": "default.png",
     "categories": ["Формы Html"],
     "description": "Тестирование ввода чисел от 4 до 14 символов в поля цены с кнопкой «Применить»",
-    "url": "price-range-input",
+    "key": "price-range-input",
     "validation": {
       "minLength": 4,
       "maxLength": 14
