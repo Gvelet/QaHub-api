@@ -5,7 +5,7 @@
     "categories": ["Формы Html"],
     "briefDescription": "Найди 13 кейсов в полях 'От' и 'До'",
     "description": "Перед вами два числовых поля, с доступностью ввода от 4 до 14 символов. Попытайтесь найти все кейсы которые вы бы применили в реальной жизни для тестирования такой формы",
-    "url": "priceRangeInput",
+    "url": "price-range-Input",
     "validation": {
       "minLength": 4,
       "maxLength": 14
